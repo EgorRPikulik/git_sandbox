@@ -1,2 +1,2 @@
-#Yegor Pikulik#
-##Z77##
+# Yegor Pikulik #    
+## Z77 ##
